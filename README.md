@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, JavaScript, C
+- **Languages:** Python, JavaScript, C++,C
 - **Web:** HTML, CSS
 - **Game Dev:** Pygame
 - **Tools:** Git, GitHub, VS Code
@@ -37,7 +37,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/piyushsingh-993558
-- LinkedIn: *(add your link here)*
+  -Linkedin:https://www.linkedin.com/in/piyush-singh-bb2378346?
 
 ---
 
