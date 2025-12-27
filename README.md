@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Piyush Singh
 
-<!--
-**piyushsingh-993558/piyushsingh-993558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year CSE Student  
+💻 Aspiring Software & Game Developer  
+🚀 Passionate about Python, JavaScript, and Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Currently pursuing **B.Tech in Computer Science**
+- Learning **Full Stack Development**
+- Interested in **Game Development & Open Source**
+- Actively building projects and participating in hackathons
+
+---
+
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, C
+- **Web:** HTML, CSS
+- **Game Dev:** Pygame
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🎮 Projects
+- 🚀 **Galaxy Shooters** – 2D Space Shooter Game using Python & Pygame  
+- ⏱️ **Countdown Timer** – Web app using HTML, CSS, JavaScript  
+
+---
+
+## 📌 Currently Learning
+- Advanced JavaScript
+- Backend Development
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/piyushsingh-993558
+- LinkedIn: *(add your link here)*
+
+---
+
+⭐ Feel free to explore my repositories and give feedback!
