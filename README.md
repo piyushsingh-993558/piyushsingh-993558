@@ -14,11 +14,26 @@
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python, JavaScript, C++,C
-- **Web:** HTML, CSS
-- **Game Dev:** Pygame
-- **Tools:** Git, GitHub, VS Code
+## 🛠️ Skills & Technologies
+
+**Languages:**  
+C • C++ • Java • JavaScript  
+
+**Frontend:**  
+React.js • HTML • CSS • Bootstrap • Tailwind CSS  
+
+**Backend:**  
+Node.js • Express.js  
+
+**Database:**  
+MongoDB  
+
+**Tools:**  
+Git • GitHub • VS Code • Postman  
+
+**CS Fundamentals:**  
+DSA • OOP • DBMS • OS • CN
+
 
 ---
 
